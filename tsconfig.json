@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "ESNext",
+        "outDir": "build",
+        "rootDir": "src",
+        "strict": true,
+        "moduleResolution": "Node",
+        "allowSyntheticDefaultImports": true,
+
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+
+        "skipLibCheck": false,
+        "forceConsistentCasingInFileNames": true,
+        "strictPropertyInitialization": false,
+        "strictNullChecks": false
+    },
+    "exclude": ["build", "node_modules"]
+}
+
