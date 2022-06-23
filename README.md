@@ -12,7 +12,8 @@
 
 **Bot action example**
 
-![](https//github.com/Xtreme123456/sandbox_game/blob/main/ecc386928ec04200c859f463f77ec19b.gif)
+![](https://github.com/Xtreme123456/sandbox_game/blob/main/ecc386928ec04200c859f463f77ec19b.gif)
+
 
 ### Dependencies
     @discordx/importer (^1.1.10),
