@@ -1,0 +1,1 @@
+type CallbackFnFilter<T> = (value: T, index?: number, design?: T[][]) => boolean;
