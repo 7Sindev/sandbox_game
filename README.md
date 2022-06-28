@@ -4,13 +4,13 @@
 
 **Installing and Starting**
 
-* Install modules
+* Install modules:
     `yarn` or `npm i`
     
-* Set bot token
+* Set bot token:
     create a file called `.env` and set your bot token (`BOT_TOKEN=YOUR_BOT_TOKEN_HERE`)
 
-* Start bot
+* Start bot:
     `yarn start` or `npm run start`
 
 **Bot action example**
