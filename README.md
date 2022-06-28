@@ -6,6 +6,9 @@
 
 * Install modules
     `yarn` or `npm i`
+    
+* Set bot token
+    create a file called `.env` and set your bot token (`BOT_TOKEN=YOUR_BOT_TOKEN_HERE`)
 
 * Start bot
     `yarn start` or `npm run start`
